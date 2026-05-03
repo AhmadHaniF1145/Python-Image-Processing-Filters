@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output Images / Video logs
+output/
